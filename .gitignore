@@ -2,7 +2,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+phot_fits/*
+*.pdf
+*.eps
+phots/*
 # C extensions
 *.so
 
