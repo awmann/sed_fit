@@ -8,7 +8,7 @@ phot_fits/*
 phots/*
 # C extensions
 *.so
-
+Models_CIFIST_Aug2013_filler.fits
 # Distribution / packaging
 .Python
 build/
